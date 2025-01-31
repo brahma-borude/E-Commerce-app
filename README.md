@@ -1,2 +1,2 @@
-# E-Commerce-app
-E-commerce website using Flask
+# StudySync
+AI based study planner 
